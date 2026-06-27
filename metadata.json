@@ -1,0 +1,6 @@
+{
+  "name": "CampusMart",
+  "description": "A premium, minimalist marketplace for college students to buy, sell, and rent used products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
